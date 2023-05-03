@@ -172,3 +172,4 @@ llm/*
 embedding/*
 
 pyrightconfig.json
+langchain-ChatGLM/
